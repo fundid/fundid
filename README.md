@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a portfolio page
+- 🌱 I’m currently learning PHP Java and Python
+
 
 <!--
 **fundid/fundid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
