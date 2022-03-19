@@ -3,6 +3,16 @@
 - 🌱 I’m currently learning PHP Java and Python
 
 
+I'm on Reddit and recently joined HN
+<div id="badges">
+  <a href="https://reddit.com/u/deno_23">
+    <img src=https://img.shields.io/reddit/user-karma/combined/deno_23?style=plastic&logo=reddit	plastic
+ />
+<a href="https://news.ycombinator.com/user?id=zote">
+<img src=https://img.shields.io/hackernews/user-karma/zote?style=plastic&logo=hackernews	plastic
+ />
+
+
 <!--
 **fundid/fundid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
