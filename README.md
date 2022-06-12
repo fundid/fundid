@@ -1,6 +1,6 @@
-### Hi there 👋
-- 🔭 I’m currently working on a portfolio page
-- 🌱 I’m currently learning PHP Java and Python
+### Hello there 👋
+- 🔭 
+- 🌱 I’m currently learning Go and Flutter
 
 
 I'm on Reddit and recently joined HN
