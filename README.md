@@ -1,6 +1,7 @@
 ### Hello there 👋
-- 🔭 
-- 🌱 I’m currently learning Go and Flutter
+- 🔭 I'm interested in Programming Languages
+- 🌱 I’m currently learning Rust
+- ❤️ Svelte, Elixir, Go
 
 
 I'm on Reddit and recently joined HN
