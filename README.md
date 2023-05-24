@@ -1,5 +1,5 @@
 ### Hello there 👋
-- 🔭 I'm interested in Programming Languages
+
 - 🌱 I’m currently learning Rust
 - ❤️ Svelte, Elixir, Go
 
