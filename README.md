@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Rust
 - ❤️ Svelte, Elixir, Go
 
-
-I'm on Reddit and recently joined HN
 <div id="badges">
   <a href="https://reddit.com/u/deno_23">
     <img src=https://img.shields.io/reddit/user-karma/combined/deno_23?style=plastic&logo=reddit	plastic
